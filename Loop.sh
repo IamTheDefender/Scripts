@@ -13,16 +13,16 @@ jumpto $start
 
 start:
 echo "Ping Pong"
-wait 280
+sleep 280
 echo "Yooo"
-wait 280
+sleep 280
 echo "Easy Loop?"
-wait 280
+sleep 280
 ping google.com
-wait 280
+sleep 280
 echo "AAAA!"
-wait 280
+sleep 280
 echo "Hello!"
-wait 280
+sleep 280
 clear
 jumpto start
