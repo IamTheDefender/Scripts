@@ -25,4 +25,4 @@ sleep 280
 echo "Hello!"
 sleep 280
 clear
-jumpto start
+jumpto $start
